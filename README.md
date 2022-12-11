@@ -23,3 +23,8 @@
   - Commented DB configuration & setup so that interviewer can test easily
   - Followed OOPS concepts & SOLID design principles.
   - Used Singleton & Factory data structures whenever needed.
+
+
+Please find the recorded demo video 
+
+https://drive.google.com/file/d/19S6-4rl_cpHJ4lP7tCXjWNNCAojGZxLA/view?usp=share_link
