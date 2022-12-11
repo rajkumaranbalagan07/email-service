@@ -1,0 +1,9 @@
+export const ResponseCodes = {
+  HTTP_ERROR: "FCS-O-0002",
+  NOT_FOUND: "FCS-O-0004",
+  INTERNAL_SERVER_ERROR: "FCS-O-0003",
+  OK: "FCS-O-0001",
+  BAD_REQUEST: "FCS-O-0006",
+  CONFLICT: "FCS-O-0005",
+  CREATED: "FCS-O-0007",
+};
