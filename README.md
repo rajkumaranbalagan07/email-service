@@ -1,5 +1,5 @@
 ## Setup
-    git clone https://github.com/AjayRajkumar/email-service.gitgit 
+    git clone [https://github.com/AjayRajkumar/email-service.gitgit ](https://github.com/rajkumaranbalagan07/email-service)
     cd email-service
     npm i 
     npm start 
